@@ -1,0 +1,29 @@
+# Environment variables and secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Node dependencies
+**/node_modules/
+
+# React build output
+**/dist/
+**/build/
+
+# Java / Maven build output
+**/target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# My files
+testPrivate.txt
